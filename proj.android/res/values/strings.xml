@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">wanted</string>
+    <string name="app_id">1019737196198</string>
+    <string name="opponent_left_room">Votre adversaire a quitte la partie</string>
+    <string name="room_creation_failed">La connection au game center a echoue</string>
+    <string name="LEADERBOARD_ID_TOTAL_WON">CgkIpo3L6NYdEAIQAg</string>
+    <string name="LEADERBOARD_ID_RATIO_WON">CgkIpo3L6NYdEAIQAw</string>
+    <string name="bluetooth_not_supported">Votre appareil ne permet pas la connection bluetooth</string>
+    <string name="bluetooth_not_enable">Le bluetooth n\'est pas active sur votre appareil</string>  
+</resources>

@@ -1,0 +1,623 @@
+obj/local/armeabi/objs-debug/game_shared/__/__/Classes/GameCenter/GameCenterListener.o: \
+ jni/../../Classes/GameCenter/GameCenterListener.cpp \
+ jni/../../Classes/GameCenter/GameCenter.h \
+ jni/../../Classes/GameCenter/GameCenterListener.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/cocos2d.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccConfig.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCAction.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCObject.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCDataVisitor.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCPlatformMacros.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccConfig.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h \
+ C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/android/log.h \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/string \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCGeometry.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCObject.h \
+ C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/math.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionInterval.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/base_nodes/CCNode.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccMacros.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCCommon.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCPlatformMacros.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCStdC.h \
+ C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/stdlib.h \
+ C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/alloca.h \
+ C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/strings.h \
+ C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/memory.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCAffineTransform.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCGeometry.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCArray.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/data_support/ccCArray.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCGL.h \
+ C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
+ C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
+ C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
+ C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/shaders/ccGLStateCache.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/shaders/CCGLProgram.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/kazmath.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/vec2.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/vec3.h \
+ C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/assert.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/mat3.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/utility.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/mat4.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/quaternion.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/plane.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/aabb.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/ray2.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/script_support/CCScriptSupport.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCAccelerometer.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCAccelerometerDelegate.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCCommon.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/touch_dispatcher/CCTouch.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCSet.h \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/set \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/map \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/list \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/CCProtocols.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccTypes.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/textures/CCTexture2D.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccTypes.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCAction.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCSpriteFrame.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCAnimation.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCDictionary.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/data_support/uthash.h \
+ C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/inttypes.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCArray.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCString.h \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/functional \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCSpriteFrame.h \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/vector \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionCamera.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionInterval.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionManager.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionEase.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionPageTurn3D.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionGrid3D.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionGrid.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionInstant.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccTypeInfo.h \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/typeinfo \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionGrid.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionProgressTimer.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionGrid3D.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionTiledGrid.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionInstant.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionTween.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionCatmullRom.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/base_nodes/CCAtlasNode.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/base_nodes/CCNode.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCAutoreleasePool.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCInteger.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCFloat.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCDouble.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCBool.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCString.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCNS.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCZone.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/draw_nodes/CCDrawingPrimitives.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/draw_nodes/CCDrawNode.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/effects/CCGrabber.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/CCConfiguration.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCObject.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCString.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/effects/CCGrid.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/CCCamera.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/mat4.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/CCDirector.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCPlatformMacros.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCGeometry.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCArray.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/label_nodes/CCLabelAtlas.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/CCEventType.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/CCProtocols.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccMacros.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/kazmath.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/GL/matrix.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/GL/../mat4.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/GL/../vec3.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/keypad_dispatcher/CCKeypadDelegate.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/keypad_dispatcher/CCKeypadDispatcher.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/keypad_dispatcher/CCKeypadDelegate.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/label_nodes/CCLabelAtlas.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/label_nodes/CCLabelTTF.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCSprite.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/textures/CCTextureAtlas.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/label_nodes/CCLabelBMFont.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCSpriteBatchNode.h \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/sstream \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/iostream \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCLayer.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCScene.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransition.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCScene.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransitionPageTurn.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransition.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransitionProgress.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/menu_nodes/CCMenu.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/menu_nodes/CCMenuItem.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/menu_nodes/CCMenuItem.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/misc_nodes/CCClippingNode.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/misc_nodes/CCMotionStreak.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/misc_nodes/CCProgressTimer.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/misc_nodes/CCRenderTexture.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/particle_nodes/CCParticleBatchNode.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/particle_nodes/CCParticleSystem.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/particle_nodes/CCParticleExamples.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/particle_nodes/CCParticleSystemQuad.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/particle_nodes/CCParticleSystem.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/particle_nodes/CCParticleSystemQuad.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCDevice.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCFileUtils.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCImage.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCSAXParser.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCThread.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/platform.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCThread.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCAccelerometer.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCApplication.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCApplicationProtocol.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCEGLView.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCEGLViewProtocol.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCGL.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCStdC.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/shaders/CCShaderCache.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/shaders/ccShaders.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCAnimationCache.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCSpriteFrameCache.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/ccUTF8.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/CCNotificationCenter.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/CCPointExtension.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/CCProfiling.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/user_default/CCUserDefault.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/CCVertex.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/tinyxml2/tinyxml2.h \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/climits \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdio \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdlib \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cstring \
+ C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdarg \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/text_input_node/CCIMEDelegate.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/text_input_node/CCIMEDispatcher.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/text_input_node/CCIMEDelegate.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/text_input_node/CCTextFieldTTF.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/textures/CCTextureCache.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/textures/CCTexturePVR.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCParallaxNode.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXLayer.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXObjectGroup.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXXMLParser.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXObjectGroup.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXTiledMap.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXXMLParser.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTileMapAtlas.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDispatcher.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/touch_dispatcher/CCTouchHandler.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDispatcher.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/CCScheduler.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/data_support/uthash.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/component/CCComponent.h \
+ C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/component/CCComponentContainer.h \
+ jni/../../Classes/GameCenter/GameCenterMessage.h \
+ jni/../../Classes/GameCenter/Game.h
+
+jni/../../Classes/GameCenter/GameCenter.h:
+
+jni/../../Classes/GameCenter/GameCenterListener.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/cocos2d.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccConfig.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCAction.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCObject.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCDataVisitor.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCPlatformMacros.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccConfig.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h:
+
+C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/android/log.h:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/string:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCGeometry.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCObject.h:
+
+C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/math.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionInterval.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/base_nodes/CCNode.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccMacros.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCCommon.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCPlatformMacros.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCStdC.h:
+
+C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/stdlib.h:
+
+C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/alloca.h:
+
+C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/strings.h:
+
+C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/memory.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCAffineTransform.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCGeometry.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCArray.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/data_support/ccCArray.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCGL.h:
+
+C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
+
+C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
+
+C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
+
+C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/shaders/ccGLStateCache.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/shaders/CCGLProgram.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/kazmath.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/vec2.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/vec3.h:
+
+C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/assert.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/mat3.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/utility.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/mat4.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/quaternion.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/plane.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/aabb.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/ray2.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/script_support/CCScriptSupport.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCAccelerometer.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCAccelerometerDelegate.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCCommon.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/touch_dispatcher/CCTouch.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCSet.h:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/set:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/map:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/list:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/CCProtocols.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccTypes.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/textures/CCTexture2D.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccTypes.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCAction.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCSpriteFrame.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCAnimation.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCDictionary.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/data_support/uthash.h:
+
+C:/android/ndk/android-ndk-r8e/platforms/android-9/arch-arm/usr/include/inttypes.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCArray.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCString.h:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/functional:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCSpriteFrame.h:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/vector:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionCamera.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionInterval.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionManager.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionEase.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionPageTurn3D.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionGrid3D.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionGrid.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionInstant.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccTypeInfo.h:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/typeinfo:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionGrid.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionProgressTimer.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionGrid3D.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionTiledGrid.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionInstant.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionTween.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/actions/CCActionCatmullRom.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/base_nodes/CCAtlasNode.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/base_nodes/CCNode.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCAutoreleasePool.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCInteger.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCFloat.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCDouble.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCBool.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCString.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCNS.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCZone.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/draw_nodes/CCDrawingPrimitives.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/draw_nodes/CCDrawNode.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/effects/CCGrabber.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/CCConfiguration.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCObject.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCString.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/effects/CCGrid.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/CCCamera.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/mat4.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/CCDirector.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCPlatformMacros.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCGeometry.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/cocoa/CCArray.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/label_nodes/CCLabelAtlas.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/CCEventType.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/CCProtocols.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/include/ccMacros.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/kazmath.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/GL/matrix.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/GL/../mat4.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/kazmath/include/kazmath/GL/../vec3.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/keypad_dispatcher/CCKeypadDelegate.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/keypad_dispatcher/CCKeypadDispatcher.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/keypad_dispatcher/CCKeypadDelegate.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/label_nodes/CCLabelAtlas.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/label_nodes/CCLabelTTF.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCSprite.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/textures/CCTextureAtlas.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/label_nodes/CCLabelBMFont.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCSpriteBatchNode.h:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/sstream:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/iostream:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCLayer.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCScene.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransition.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCScene.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransitionPageTurn.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransition.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransitionProgress.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/menu_nodes/CCMenu.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/menu_nodes/CCMenuItem.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/menu_nodes/CCMenuItem.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/misc_nodes/CCClippingNode.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/misc_nodes/CCMotionStreak.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/misc_nodes/CCProgressTimer.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/misc_nodes/CCRenderTexture.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/particle_nodes/CCParticleBatchNode.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/particle_nodes/CCParticleSystem.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/particle_nodes/CCParticleExamples.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/particle_nodes/CCParticleSystemQuad.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/particle_nodes/CCParticleSystem.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/particle_nodes/CCParticleSystemQuad.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCDevice.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCFileUtils.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCImage.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCSAXParser.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCThread.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/platform.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCThread.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCAccelerometer.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCApplication.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCApplicationProtocol.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCEGLView.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/CCEGLViewProtocol.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCGL.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/platform/android/CCStdC.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/shaders/CCShaderCache.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/shaders/ccShaders.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCAnimationCache.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/sprite_nodes/CCSpriteFrameCache.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/ccUTF8.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/CCNotificationCenter.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/CCPointExtension.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/CCProfiling.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/user_default/CCUserDefault.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/CCVertex.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/tinyxml2/tinyxml2.h:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/climits:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdio:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdlib:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cstring:
+
+C:/android/ndk/android-ndk-r8e/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdarg:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/text_input_node/CCIMEDelegate.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/text_input_node/CCIMEDispatcher.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/text_input_node/CCIMEDelegate.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/text_input_node/CCTextFieldTTF.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/textures/CCTextureCache.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/textures/CCTexturePVR.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCParallaxNode.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXLayer.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXObjectGroup.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXXMLParser.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXObjectGroup.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXTiledMap.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXXMLParser.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTileMapAtlas.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDispatcher.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/touch_dispatcher/CCTouchHandler.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDispatcher.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/CCScheduler.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/data_support/uthash.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/component/CCComponent.h:
+
+C:/cocos2d-x/cocos2d-x-2.1.4/wanted/proj.android/../../cocos2dx/support/component/CCComponentContainer.h:
+
+jni/../../Classes/GameCenter/GameCenterMessage.h:
+
+jni/../../Classes/GameCenter/Game.h:
